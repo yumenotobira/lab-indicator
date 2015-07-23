@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LAB-INdicator</string>
+
+    <string name="action_my_lab">自分の研究室</string>
+    <string name="action_lab_list">研究室一覧</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="settings">各種設定</string>
+    <string name="settings_user_name">ユーザー名: </string>
+    <string name="settings_my_lab">所属研究室: </string>
+    <string name="title_activity_labs">研究室一覧</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_indicator">LAB-INdicator</string>
+</resources>
